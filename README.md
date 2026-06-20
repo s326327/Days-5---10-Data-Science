@@ -1,4 +1,4 @@
-# Days 1–5 Data Science
+# Days 6–10 Data Science
 
 A beginner-friendly Data Science learning repository that introduces core statistical concepts through hands-on Jupyter notebooks.
 
@@ -46,8 +46,12 @@ Learn about:
 
 ---
 
+### Day 9: Catchup_Day
+`Catchup_Day`
 
-### Day 9: Is the Difference Real or Just Noise?
+---
+
+### Day 10: Is the Difference Real or Just Noise?
 `Lesson9: Is the Difference Real or Just Noise?.ipynb`
 
 Learn about:
@@ -74,7 +78,7 @@ Learn about:
 ## Repository Structure
 
 ```text
-Days-6---9-Data-Science/
+Days-6---10-Data-Science/
 │
 ├── Lesson6_ Comparing Groups.ipynb
 ├── Lesson7_ From Samples to the World.ipynb
